@@ -1,17 +1,17 @@
 # Proyecto React-Flask-CRUD
 
-### Nota: Este es un proyecto para uso personal, pero eres libre de mirar, copiar o utilizar el codigo.
+### Nota: Este es un proyecto desarrollado para uso personal, pero eres completamente libre de ver, copiar o utilizar el código como desees. Úsalo como referencia, base para tus ideas o simplemente para aprender.
 
-## Para levantar el frontend:
+### Para levantar el frontend:
 
 npm start
 
-## Para levantar el backend:
+### Para levantar el backend:
 
 source venv/bin/activate
 python src/app.py
 
-## Para levantar la base de datos:
+### Para levantar la base de datos:
 
 mongosh
 
