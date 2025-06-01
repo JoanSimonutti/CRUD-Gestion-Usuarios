@@ -4,16 +4,22 @@ Nota: Este es un proyecto desarrollado para uso personal, pero eres completament
 
 ### - Para levantar el frontend:
 
+```bash
 npm start
+```
 
 ### - Para levantar el backend:
 
+```bash
 source venv/bin/activate
 python src/app.py
+```
 
 ### - Para levantar la base de datos:
 
+```bash
 mongosh
+```
 
 # ¿Qué es CRUD?
 
