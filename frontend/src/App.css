@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+}
+
+.signature {
+    text-decoration: none;
+}
+
+.signature-link {
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    color: inherit;
+}
+
+.signature-link:hover {
+    text-decoration: underline;
+}
