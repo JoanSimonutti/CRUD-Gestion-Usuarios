@@ -188,6 +188,6 @@ npm run eject     # Expone la configuración completa (irreversible)
 
 <div align="end">
 
-Creado por: [Joan Simonutti](https://www.linkedin.com/in/joan-simonutti) | 2025
+Creado por [Joan Simonutti](https://www.linkedin.com/in/joansimonutti/) | 2025
 
 </div>
