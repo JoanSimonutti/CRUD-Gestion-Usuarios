@@ -185,5 +185,7 @@ npm run eject     # Expone la configuración completa (irreversible)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
 
 <div align="left">
+
 [Joan Simonutti](https://www.linkedin.com/in/joan-simonutti) | 2025
+
 </div>
