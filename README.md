@@ -183,5 +183,3 @@ npm run eject     # Expone la configuración completa (irreversible)
 - [Documentación de React](https://reactjs.org)
 - [Documentación de Flask](https://flask.palletsprojects.com/)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
-
-**Contacto:** - [LinkedIn](https://www.linkedin.com/in/joan-simonutti) - [GitHub](https://github.com/joansimonutti)
