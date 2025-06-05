@@ -1,12 +1,6 @@
 # Proyecto React-Flask-CRUD
 
-Nota: Este es un proyecto desarrollado para uso personal, pero eres completamente libre de ver, copiar o utilizar el código como desees. Úsalo como referencia, base para tus ideas o simplemente para aprender.
-
-### - Para levantar el frontend:
-
-```bash
-npm start
-```
+<img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
 
 ### - Para levantar el backend:
 
@@ -19,6 +13,12 @@ python src/app.py
 
 ```bash
 mongosh
+```
+
+### - Para levantar el frontend:
+
+```bash
+npm start
 ```
 
 # ¿Qué es CRUD?
@@ -38,7 +38,7 @@ Estas operaciones permiten crear, consultar, modificar y eliminar datos en una a
 
 ### 📗 Paso a paso
 
-1. Crear una carpeta llamada `python-react-crud`.
+1. Crear una carpeta llamada `react-flask-crud`.
 2. Dentro de ella, crear una carpeta `backend`.
 3. Abrir la carpeta `backend` en VSCode.
 4. Desde la terminal, instalar virtualenv:

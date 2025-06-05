@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export const Navbar = () => (
     <div>
         <nav className="navbar p-4  navbar-expand-lg navbar-light bg-info">
-            <Link className="navbar-brand signature-link" to="/">React & Flask</Link>
+            <Link className="navbar-brand signature-link" to="/">Customer Management</Link>
             <div className="collapse navbar-collapse" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
