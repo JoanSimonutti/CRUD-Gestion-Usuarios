@@ -1,6 +1,17 @@
+<img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
+
 # Proyecto React-Flask-CRUD
 
-<img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
+### ¿Qué es CRUD?
+
+CRUD es el acrónimo de las operaciones más comunes en bases de datos:
+
+- **C**reate (Crear)
+- **R**ead (Leer)
+- **U**pdate (Actualizar)
+- **D**elete (Eliminar)
+
+Estas operaciones permiten crear, consultar, modificar y eliminar datos en una aplicación.
 
 ### - Para levantar el backend:
 
@@ -20,17 +31,6 @@ mongosh
 ```bash
 npm start
 ```
-
-# ¿Qué es CRUD?
-
-CRUD es el acrónimo de las operaciones más comunes en bases de datos:
-
-- **C**reate (Crear)
-- **R**ead (Leer)
-- **U**pdate (Actualizar)
-- **D**elete (Eliminar)
-
-Estas operaciones permiten crear, consultar, modificar y eliminar datos en una aplicación.
 
 ---
 
