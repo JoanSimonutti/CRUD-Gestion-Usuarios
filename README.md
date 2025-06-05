@@ -69,7 +69,7 @@ pip install flask Flask-PyMongo flask-cors
 
 8. Crear una carpeta `src` dentro de `backend`, y dentro de `src`, un archivo `app.py`.
 
-### 🔍 Explicación de las dependencias
+### Explicación de las dependencias
 
 - `Flask`: framework para crear el servidor.
 - `Flask-PyMongo`: permite conectar Flask con MongoDB.
