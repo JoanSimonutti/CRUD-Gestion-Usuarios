@@ -1,6 +1,6 @@
 <img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
 
-# Proyecto React-Flask-CRUD
+## Aplicación React-Flask-CRUD
 
 ### ¿Qué es CRUD?
 
@@ -11,7 +11,7 @@ CRUD es el acrónimo de las operaciones más comunes en bases de datos:
 - **U**pdate (Actualizar)
 - **D**elete (Eliminar)
 
-Estas operaciones permiten crear, consultar, modificar y eliminar datos en una aplicación.
+Entonces, esta aplicación permite crear, consultar, modificar y eliminar usuarios a través de una interfaz web desarrollada con React, un servidor en Python con Flask y una base de datos MongoDB donde se almacena la información.
 
 ## Pasos para inicializar este proyecto:
 
@@ -38,7 +38,7 @@ npm start
 
 ## 1. Backend (Python + Flask + MongoDB)
 
-### 📗 Paso a paso
+### Paso a paso
 
 1. Crear una carpeta llamada `react-flask-crud`.
 2. Dentro de ella, crear una carpeta `backend`.
@@ -75,7 +75,7 @@ pip install flask Flask-PyMongo flask-cors
 - `Flask-PyMongo`: permite conectar Flask con MongoDB.
 - `flask-cors`: habilita la comunicación entre servidores distintos (por ejemplo, Flask y React durante desarrollo).
 
-### 🔧 Configuración inicial en `app.py`
+### Configuración inicial en `app.py`
 
 ```python
 from flask import Flask
@@ -107,7 +107,7 @@ Abre tu navegador en `http://localhost:5000` y deberías ver "HELLO WORLD".
 
 ---
 
-## 📂 Rutas CRUD
+## Rutas CRUD
 
 | Método | Ruta          | Acción                     |
 | ------ | ------------- | -------------------------- |
@@ -119,7 +119,7 @@ Abre tu navegador en `http://localhost:5000` y deberías ver "HELLO WORLD".
 
 ---
 
-## 🔢 MongoDB: comandos básicos en shell
+## MongoDB: comandos básicos en shell
 
 1. Asegúrate de tener MongoDB instalado y corriendo:
 
@@ -146,7 +146,7 @@ db.users.find()       # Lista todos los documentos en la colección "users"
 
 ## 2. Frontend (React)
 
-### 🚀 Crear el proyecto
+### Crear el proyecto
 
 Desde la carpeta `python-react-crud`, ejecutar:
 
@@ -166,7 +166,7 @@ Instalar dependencias:
 npm install react-router-dom bootswatch
 ```
 
-### 🎓 Scripts disponibles
+### Scripts disponibles
 
 ```bash
 npm start         # Ejecuta en modo desarrollo
@@ -175,7 +175,7 @@ npm test          # Corre pruebas
 npm run eject     # Expone la configuración completa (irreversible)
 ```
 
-### 📅 Recursos oficiales
+### Recursos oficiales
 
 - [Documentación de Create React App](https://create-react-app.dev)
 - [Documentación de React](https://reactjs.org)
@@ -183,5 +183,3 @@ npm run eject     # Expone la configuración completa (irreversible)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
 
 ---
-
-Documento creado por Joan Simonutti para guiar en la creacion de una aplicación full stack simple utilizando React, Flask, MongoDB.
