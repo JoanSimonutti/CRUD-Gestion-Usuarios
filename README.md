@@ -184,8 +184,10 @@ npm run eject     # Expone la configuración completa (irreversible)
 - [Documentación de Flask](https://flask.palletsprojects.com/)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
 
+---
+
 <div align="end">
 
-[Joan Simonutti](https://www.linkedin.com/in/joan-simonutti) | 2025
+Creado por: [Joan Simonutti](https://www.linkedin.com/in/joan-simonutti) | 2025
 
 </div>
