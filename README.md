@@ -36,7 +36,7 @@ npm start
 
 ---
 
-## 1. Backend (Python + Flask + MongoDB)
+## 1. Python + Flask + MongoDB (Backend)
 
 ### Paso a paso
 
@@ -119,7 +119,7 @@ Abre tu navegador en `http://localhost:5000` y deberías ver "HELLO WORLD".
 
 ---
 
-## MongoDB: comandos básicos en shell
+## Base de datos en MongoDB: comandos básicos en shell
 
 1. Asegúrate de tener MongoDB instalado y corriendo:
 
@@ -144,7 +144,7 @@ db.users.find()       # Lista todos los documentos en la colección "users"
 
 ---
 
-## 2. Frontend (React)
+## 2. React (Frontend)
 
 ### Crear el proyecto
 
@@ -183,3 +183,5 @@ npm run eject     # Expone la configuración completa (irreversible)
 - [Documentación de React](https://reactjs.org)
 - [Documentación de Flask](https://flask.palletsprojects.com/)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
+
+[Joan Simonutti](https://www.linkedin.com/in/joan-simonutti) | 2025
