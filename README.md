@@ -175,11 +175,16 @@ npm test          # Corre pruebas
 npm run eject     # Expone la configuración completa (irreversible)
 ```
 
+---
+
+**Joan Simonutti**
+
+- [LinkedIn](https://www.linkedin.com/in/joan-simonutti)
+- [GitHub](https://github.com/joansimonutti)
+
 ### Recursos oficiales
 
 - [Documentación de Create React App](https://create-react-app.dev)
 - [Documentación de React](https://reactjs.org)
 - [Documentación de Flask](https://flask.palletsprojects.com/)
 - [Documentación de MongoDB](https://www.mongodb.com/docs/)
-
----
