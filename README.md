@@ -1,8 +1,8 @@
-<img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
-
 ## Aplicación React-Flask-CRUD
 
-### ¿Qué es CRUD?
+<img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
+
+## ¿Qué es CRUD?
 
 CRUD es el acrónimo de las operaciones más comunes en bases de datos:
 
