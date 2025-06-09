@@ -1,4 +1,4 @@
-## Aplicación React-Flask-CRUD
+# Aplicación React-Flask-CRUD
 
 <img src="assets/app-pic-01.png" alt="App-Pic" width="100%">
 
