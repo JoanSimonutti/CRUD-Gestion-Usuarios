@@ -11,7 +11,9 @@ CRUD es el acrónimo de las operaciones más comunes en bases de datos:
 - **U**pdate (Actualizar)
 - **D**elete (Eliminar)
 
-Entonces, esta aplicación permite crear, consultar, modificar y eliminar usuarios a través de una interfaz web desarrollada con React, un servidor en Python con Flask y una base de datos MongoDB donde se almacena la información.
+Esta aplicación permite gestionar usuarios a través de una interfaz web desarrollada con **React**, un servidor en **Python con Flask** y una base de datos **MongoDB** donde se almacena la información.
+
+---
 
 ## Pasos para inicializar este proyecto:
 
