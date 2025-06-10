@@ -15,8 +15,6 @@ CRUD es el acrónimo de las operaciones más comunes en bases de datos:
 
 ---
 
-## Pasos para inicializar este proyecto:
-
 ### - Para levantar el backend:
 
 ```bash
